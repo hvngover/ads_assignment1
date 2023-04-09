@@ -1,6 +1,6 @@
 import java.util.Scanner; // import the Scanner class from the java.util package to read input
 
-public class task3 { // declare a class named Main
+public class Main { // declare a class named Main
 
     public static void main(String[] args) { // declare a main method, which is the entry point of the program
         Scanner scanner = new Scanner(System.in); // create a new Scanner object to read input
