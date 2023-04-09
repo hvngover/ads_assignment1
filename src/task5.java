@@ -1,8 +1,8 @@
-import java.util.Scanner; // Import the Scanner class
+import java.util.Scanner; 
 
 public class DigitCheck {
     public static boolean check(String s) {
-        // Check if a string consists of only digits
+        
         return s.matches("\\d+"); // The regular expression \d+ matches one or more digits
     }
 
