@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class task2{
+public class Main{
 
     // Function to calculate the average of an array of n elements
     public static double calculateAverage(int[] arr, int n) {
