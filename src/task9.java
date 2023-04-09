@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task8 {
+public class task9 {
     public static int FindBinomialCoefficient(int n, int k) // Creating the function to find binomial coefficent by using user values n and k
     {
         if (k == 0 || n == k) // Creating statement to check if k is equal 0, or is n equal k
