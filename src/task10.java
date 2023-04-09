@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task9 {
+public class task10 {
     public static int FindGCD(int a, int b) // Creating function to find GCD of user values a and b
     {
         int c; // Creating variable c without value
